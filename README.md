@@ -1,2 +1,2 @@
 # HowToProgramC
-My attempt at solving the exercises of C: How to program by Deitels
+My attempt at solving the exercises of C: How to program 9th by Deitel / Deitel
